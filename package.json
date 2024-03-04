@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruslanadro/ruslanastartjs.git"
+    "url": "https://github.com/ruslanadro/ruslanastartjs.git"
   },
   "dependencies": {
     "bboottedd9": "1.0.0",
